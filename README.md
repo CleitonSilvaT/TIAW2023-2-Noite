@@ -6,3 +6,4 @@ Disciplina da Puc Minas
 - Foi adicionado o cadastro do Cliente
 - Criada tela de contatos
 - Tela de Cliente finalizado
+- Cadastro
